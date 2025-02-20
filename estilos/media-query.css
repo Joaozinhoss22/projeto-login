@@ -22,6 +22,11 @@
         width: 70%;
     }
 
+    div.campo > input{
+        height: 35px;
+        transform: translateY(-14.5px);
+    }
+
    
 }
 
@@ -63,4 +68,9 @@
         margin: 20px 0px;
     }
     
+    div.campo > input{
+        height: 36px;
+        transform: translateY(-14px);
+    }
+
 }
